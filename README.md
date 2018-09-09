@@ -36,7 +36,7 @@
 ## 推荐书目
 语言：[《C++ Primer Plus》](https://www.amazon.cn/dp/B008A4XZRI/ref=sr_1_1?ie=UTF8&qid=1536459468&sr=8-1&keywords=c%2B%2B+primer+plus)
 
-竞赛：[《挑战程序设计竞赛》](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%E6%8C%91%E6%88%98%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B)  [《算法竞赛进阶指南》](http://item.jd.com/25169099379.html)
+竞赛：[《挑战程序设计竞赛》](https://www.amazon.cn/s/ref=nb_sb_noss?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%E6%8C%91%E6%88%98%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AB%9E%E8%B5%9B)  [《算法竞赛进阶指南》](http://item.jd.com/25169099379.html) [《算法竞赛入门经典》](https://www.amazon.cn/dp/B00KVZ43PW/ref=sr_1_1?ie=UTF8&qid=1536461450&sr=8-1&keywords=%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B)
 
 算法：[《算法导论》](https://www.amazon.cn/dp/B00AK7BYJY/ref=sr_1_1?ie=UTF8&qid=1536459343&sr=8-1&keywords=%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA) [《算法》](https://www.amazon.cn/dp/B009OCFQ0O/ref=sr_1_1?ie=UTF8&qid=1536459381&sr=8-1&keywords=%E7%AE%97%E6%B3%95)
 ## 黄牌警告名单
