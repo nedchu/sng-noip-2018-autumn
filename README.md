@@ -1,6 +1,8 @@
 # 中福会少年宫NOIP提高组竞赛班 2018年秋季 信息维护
 ## 下周预告
-枚举，搜索
+主题：2018-9-15 枚举搜索
+
+作业：https://vjudge.net/contest/253726
 ## 本周内容
 主题：2018-9-8 dp
 
@@ -12,7 +14,6 @@
 
 参考资料：[动态规划基础](https://nedchu.github.io/sng-wiki/2018/09/08/dp/) [背包九讲](http://vdisk.weibo.com/s/zmfTPG2vgAcNV)
 
-**资料已完成，如果遇到问题请在 Issues 中提交**
 ## 上周内容
 无
 
@@ -43,5 +44,7 @@
 ## 黄牌警告名单
 这是一张空名单，大家都是乖宝宝
 
-## 内容维基
+## 备注
 维基地址：https://nedchu.github.io/sng-wiki/
+
+建议使用：[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN) 查看 Github 项目
