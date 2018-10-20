@@ -6,7 +6,7 @@
 ## 本周内容
 主题：2018-10-20 数论基础
 
-作业：https://vjudge.net/contest/255650
+作业：https://vjudge.net/contest/263818
 
 作业基础要求：至少完成 4 题  
 
