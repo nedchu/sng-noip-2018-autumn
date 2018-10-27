@@ -22,7 +22,7 @@
 
 ## 黄牌警告名单(排名不分先后)
 黄牌警告后，在基础要求基础上多写两题能够去除警告，完成后请通知老师解除警告。  
-2018-10-21: davidzyc, MadCreeper, sng\_yusicheng, Johnsonsecond, FrankCai, charleschen, BlackAmethyst, QMY, shianran  
+2018-10-20: davidzyc, MadCreeper, sng\_yusicheng, Johnsonsecond, FrankCai, charleschen, BlackAmethyst, QMY, shianran  
 2018-9-15：BlackAmethyst, QMY, sng\_yusicheng, davidzyc
 ## 关于作业
 作业中前三题为之前内容的回顾，之后至少七题为本堂课内容，其中一半左右为例题，会在课上讲解。
