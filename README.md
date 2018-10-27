@@ -21,8 +21,9 @@
 课件链接： [进击的DP](https://baileyswu.github.io/2018/10/dp-level2/)
 
 ## 黄牌警告名单(排名不分先后)
-2018-10-21: $\color{orange}{davidzyc, MadCreeper, sng\_yusicheng, Johnsonsecond, FrankCai, charleschen, BlackAmethyst, QMY, shianran}$
-2018-9-15：$\color{orange}{BlackAmethyst, QMY, sng\_yusicheng, davidzyc}$
+黄牌警告后，在基础要求基础上多写两题能够去除警告，完成后请通知老师解除警告。  
+2018-10-21: davidzyc, MadCreeper, sng\_yusicheng, Johnsonsecond, FrankCai, charleschen, BlackAmethyst, QMY, shianran  
+2018-9-15：BlackAmethyst, QMY, sng\_yusicheng, davidzyc
 ## 关于作业
 作业中前三题为之前内容的回顾，之后至少七题为本堂课内容，其中一半左右为例题，会在课上讲解。
 
@@ -34,9 +35,8 @@
 
 建议大家在周六或者周日完成基本的要求，之后再慢慢思考剩余的问题。
 
-每周五会将更新上传上周作业的参考代码或思路，希望大家抓紧最后机会补题。
+每周五将会更新上传上周作业的参考代码或思路，希望大家抓紧最后机会补题。
 
-黄牌警告后，在基础要求基础上多写两题能够去除警告，完成后请通知老师解除警告。
 
 ## 课程大纲
 - 2018-9-8:  动态规划
