@@ -1,22 +1,17 @@
 # 中福会少年宫NOIP提高组竞赛班 2018年秋季 信息维护
 
-## 下周预告
-主题：考试技巧之流吧
-
 ## 本周内容
-主题：2018-10-27 动态规划加强
+主题：2018-11-3 STL以及考试技巧
 
-作业：[vjudge contest](https://vjudge.net/contest/265826)
+作业：https://vjudge.net/contest/267825
 
-作业基础要求：至少完成 3 题  
+作业基础要求：至少完成 4 题
 
-作业进阶要求： AK  
-
-课件链接： [进击的DP](https://baileyswu.github.io/2018/10/dp-level2/)
+课件链接： [STL](https://nedchu.github.io/sng-wiki/2018/11/03/STL)
 
 ## 黄牌警告名单(排名不分先后)
 黄牌警告后，在基础要求基础上多写两题能够去除警告，完成后请通知老师解除警告。  
-2018-10-20: davidzyc, MadCreeper, sng\_yusicheng, Johnsonsecond, FrankCai, charleschen, BlackAmethyst, QMY, shianran  
+2018-10-20: davidzyc, MadCreeper, sng\_yusicheng, Johnsonsecond, charleschen, BlackAmethyst, QMY, shianran  
 2018-9-15：BlackAmethyst, QMY, sng\_yusicheng, davidzyc
 ## 关于作业
 作业中前三题为之前内容的回顾，之后至少七题为本堂课内容，其中一半左右为例题，会在课上讲解。
