@@ -1,14 +1,7 @@
 # 中福会少年宫NOIP提高组竞赛班 2018年秋季 信息维护
 
 ## 本周内容
-主题：2018-11-3 STL以及考试技巧
-
-作业：https://vjudge.net/contest/267825
-
-作业基础要求：至少完成 4 题
-
-课件链接： [STL](https://nedchu.github.io/sng-wiki/2018/11/03/STL)
-
+- 2018-11-24 程序与计算 Part1
 ## 黄牌警告名单(排名不分先后)
 黄牌警告后，在基础要求基础上多写两题能够去除警告，完成后请通知老师解除警告。  
 2018-10-20: davidzyc, MadCreeper, sng\_yusicheng, Johnsonsecond, charleschen, BlackAmethyst, QMY, shianran  
@@ -34,6 +27,8 @@
 - 2018-9-29 ~ 2018-10-13：放假
 - 2018-10-20: 数论基础
 - 2018-10-27：动态规划加强
+- 2018-11-3：比赛，STL
+- 2018-11-24：程序与计算 Part1
 
 更多内容敬请期待，初步准备参考 [这份知识点总结](https://blog.csdn.net/txl199106/article/details/71504478) 规划课程，在NOIP前以基础内容为主，之后会适当拔高难度。
 ## 推荐书目
