@@ -1,7 +1,7 @@
 # 中福会少年宫NOIP提高组竞赛班 2018年秋季 信息维护
 
 ## 本周内容
-- 2018-12-8: 程序与计算 Part2
+- 2019-1-5: 机器学习分类模型 Part2
 ## 黄牌警告名单(排名不分先后)
 黄牌警告后，在基础要求基础上多写两题能够去除警告，完成后请通知老师解除警告。  
 2018-10-20: davidzyc, MadCreeper, sng\_yusicheng, Johnsonsecond, charleschen, BlackAmethyst, QMY, shianran  
@@ -31,7 +31,9 @@
 - 2018-11-24：程序与计算 Part1
 - 2018-12-1: 机器学习入门
 - 2018-12-8: 程序与计算 Part2
-- 2018-12-15: 机器学习分类模型
+- 2018-12-15: 机器学习分类模型 Part1
+- 2018-12-22: 讲座，拉格朗日数乘法
+- 2019-1-5: 机器学习分类模型 Part2
 
 更多内容敬请期待，初步准备参考 [这份知识点总结](https://blog.csdn.net/txl199106/article/details/71504478) 规划课程，在NOIP前以基础内容为主，之后会适当拔高难度。
 ## 推荐书目
@@ -42,7 +44,7 @@
 算法：[《算法导论》](https://www.amazon.cn/dp/B00AK7BYJY/ref=sr_1_1?ie=UTF8&qid=1536459343&sr=8-1&keywords=%E7%AE%97%E6%B3%95%E5%AF%BC%E8%AE%BA) [《算法》](https://www.amazon.cn/dp/B009OCFQ0O/ref=sr_1_1?ie=UTF8&qid=1536459381&sr=8-1&keywords=%E7%AE%97%E6%B3%95)
 
 ## 备注
-维基地址：https://nedchu.github.io/sng-wiki/
+维基地址：[https://nedchu.github.io/sng-wiki/](https://nedchu.github.io/sng-wiki/)
 
 建议使用：[Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN) 查看 Github 项目
 
